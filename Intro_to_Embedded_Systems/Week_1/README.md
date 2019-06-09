@@ -1,7 +1,3 @@
-/* Add Author and Project Details here */
-Author: Alex Perkins
-
-Description:
 This is the first assignment from the Introdcution to Embedded Systems
 course hosted through Coursera. The goal of this assignment was to create a 
 simple application that performs statistical analytics on a dataset. This
